@@ -2,7 +2,7 @@
   "name": "safariopbkk",
   "version": "1.0.0",
   "description": "fp pbkk",
-  "main": "server.js",
+  "main": "index.js",
   "dependencies": {
     "cookie-parser": "^1.4.4",
     "express": "^4.16.4",
